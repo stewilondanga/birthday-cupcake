@@ -74,7 +74,7 @@ body {
   animation: growingflame 2500ms linear infinite;
 }
 
-/*.candle__wrapper .candle__top::after {
+.candle__wrapper .candle__top::after {
   content: "";
   display: block;
   position: absolute;
@@ -86,7 +86,8 @@ body {
   border-radius: 100% 100% 100% 0;
   transform: rotate(135deg);
 }
-.candle__wrapper .candle__top .candle__stick {
+
+/*.candle__wrapper .candle__top .candle__stick {
   z-index: 2;
   position: absolute;
   width: 2px;

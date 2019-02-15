@@ -9,6 +9,10 @@ html, body {
   min-height: 100%;
 }
 
+body {
+  background: linear-gradient(#EFEFEF, #ECE9E6);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,10 +37,6 @@ html, body {
 }
 
 
-
-body {
-  background: linear-gradient(#EFEFEF, #ECE9E6);
-}
 
 .dessert_wrapper {
   position: relative;

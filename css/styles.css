@@ -186,19 +186,21 @@ body {
   clip-path: ellipse(35% 50% at 50% 50%);
 }
 
-/*@keyframes growingflame {
+@keyframes growingflame {
   0% {
     box-shadow: 0 0 1.8rem 0.5rem #ffbb43;
   }
+
   50% {
     box-shadow: 0 0 1.8rem 1rem #ffb838;
   }
+
   100% {
     box-shadow: 0 0 1.8rem 0.5rem #ffbb43;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

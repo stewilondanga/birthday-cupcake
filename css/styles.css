@@ -148,7 +148,7 @@ body {
   border-bottom: 15px solid transparent;
 }
 
-/*.cupcake__wrapper .base__cake {
+.cupcake__wrapper .base__cake {
   z-index: 1;
   position: absolute;
   width: 105%;
@@ -159,7 +159,8 @@ body {
   background: #fed570;
   box-shadow: inset 0px -3px 5px 2px #fecb52;
 }
-.cupcake__wrapper .base__main {
+
+/*.cupcake__wrapper .base__main {
   z-index: -1;
   width: 100%;
   height: 7rem;

@@ -134,13 +134,13 @@ body {
   transform: rotate(6deg);
 }
 
-/*.frosting__wrapper .frosting__bottom {
+.frosting__wrapper .frosting__bottom {
   width: 104%;
   left: -2%;
   border-radius: 110% 100% 110% 100%;
 }
 
-.cupcake__wrapper {
+/*.cupcake__wrapper {
   position: relative;
   width: 50%;
   max-height: 200px;

@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+html, body {
+  width: 100%;
+  min-height: 100%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -28,10 +33,6 @@
 }
 
 
-html, body {
-  width: 100%;
-  min-height: 100%;
-}
 
 body {
   background: linear-gradient(#EFEFEF, #ECE9E6);

@@ -172,7 +172,7 @@ body {
   border-bottom: 100px solid transparent;
 }
 
-/*.cupcake__wrapper .base__bottom {
+.cupcake__wrapper .base__bottom {
   content: "";
   display: block;
   position: absolute;
@@ -186,7 +186,7 @@ body {
   clip-path: ellipse(35% 50% at 50% 50%);
 }
 
-@keyframes growingflame {
+/*@keyframes growingflame {
   0% {
     box-shadow: 0 0 1.8rem 0.5rem #ffbb43;
   }

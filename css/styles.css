@@ -87,7 +87,7 @@ body {
   transform: rotate(135deg);
 }
 
-/*.candle__wrapper .candle__top .candle__stick {
+.candle__wrapper .candle__top .candle__stick {
   z-index: 2;
   position: absolute;
   width: 2px;
@@ -98,7 +98,7 @@ body {
   border-radius: 50% 50% 0 0;
 }
 
-.frosting__wrapper {
+/*.frosting__wrapper {
   z-index: 10;
   width: 50%;
   max-height: 250px;

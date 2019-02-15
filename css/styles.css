@@ -28,8 +28,6 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .dessert_wrapper {
   position: relative;
   width: 90%;
@@ -43,6 +41,7 @@ body {
   align-items: center;
 }
 
+/*
 .candle__wrapper {
   width: 50%;
   height: 6.5rem;

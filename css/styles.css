@@ -112,13 +112,14 @@ body {
   box-shadow: inset -3px -3px 6px #dda85e;
 }
 
-/*.frosting__wrapper .frosting__top {
+.frosting__wrapper .frosting__top {
   z-index: 5;
   width: 85%;
   margin-bottom: -3.25rem;
   border-radius: 150% 200% 150% 200%;
 }
-.frosting__wrapper .frosting__top::before {
+
+/*.frosting__wrapper .frosting__top::before {
   content: "";
   display: block;
   position: absolute;

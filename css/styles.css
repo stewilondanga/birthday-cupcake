@@ -41,7 +41,6 @@ body {
   align-items: center;
 }
 
-/*
 .candle__wrapper {
   width: 50%;
   height: 6.5rem;
@@ -50,7 +49,8 @@ body {
   margin-bottom: -5%;
   z-index: 100;
 }
-.candle__wrapper .candle__top {
+
+/*.candle__wrapper .candle__top {
   position: relative;
   width: 1.25rem;
   height: 100%;

@@ -119,7 +119,7 @@ body {
   border-radius: 150% 200% 150% 200%;
 }
 
-/*.frosting__wrapper .frosting__top::before {
+.frosting__wrapper .frosting__top::before {
   content: "";
   display: block;
   position: absolute;
@@ -133,7 +133,8 @@ body {
   box-shadow: -2rem 2rem 0 0 #EACA9D, -42px 47px 6px -13px #dda85e;
   transform: rotate(6deg);
 }
-.frosting__wrapper .frosting__bottom {
+
+/*.frosting__wrapper .frosting__bottom {
   width: 104%;
   left: -2%;
   border-radius: 110% 100% 110% 100%;

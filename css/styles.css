@@ -62,7 +62,7 @@ body {
   border-radius: 0 0 15% 15%;
 }
 
-/*.candle__wrapper .candle__top::before {
+.candle__wrapper .candle__top::before {
   content: "";
   display: block;
   position: absolute;
@@ -73,7 +73,8 @@ body {
   border-radius: 50%;
   animation: growingflame 2500ms linear infinite;
 }
-.candle__wrapper .candle__top::after {
+
+/*.candle__wrapper .candle__top::after {
   content: "";
   display: block;
   position: absolute;
